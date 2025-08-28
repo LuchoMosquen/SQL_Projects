@@ -50,4 +50,3 @@ Este repositorio contiene scripts de práctica en **SQL Server** usando la base 
 
 > Este repositorio forma parte de mi **portafolio profesional y práctica continua** en SQL Server y análisis de datos.
 
-parte de mi preparación y práctica continua en SQL Server y análisis de datos.
